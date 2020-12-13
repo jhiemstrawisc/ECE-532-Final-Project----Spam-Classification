@@ -1,0 +1,7 @@
+Of the data used to validate this neural net, there were 1241 hams and 483 spams.
+There were 483 misclassifications.
+This equates to a misclassification rate of 28.016 percent.
+There were 0 false positives (ham incorrectly labeled spam) and 483 false negatives (spam labeled as ham).
+This means 100.0 percent of spams made it through the filter.
+Of all the misclassifications, 0.0 percent were false positives.
+Of all the misclassifications, 100.0 percent were false negatives.
